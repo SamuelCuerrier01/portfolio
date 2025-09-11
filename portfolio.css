@@ -1,0 +1,18 @@
+﻿body {
+    display: flex;
+    justify-content: center;
+    background-color: gray;
+}
+
+header {
+    width: 30%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.lien-header {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 130%;
+}
