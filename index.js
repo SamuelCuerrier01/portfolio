@@ -9,5 +9,3 @@ body.addEventListener('contextmenu', (e) => {
 body.addEventListener('dblclick', (e) => {
     e.preventDefault()
 })
-
-//les deux tests ne mache pas
